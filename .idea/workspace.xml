@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6758fbb2-7694-4f57-8ac7-93479fe0e129" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="9a21d275-0c5e-49b7-af5d-e0b35710a92f" />
+  <component name="ProjectId" id="1hZtLTX64ErMP5fdTy9hxEq8CIp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_basic/week2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_basic/week2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.s1">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/week3/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution_1-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/week1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/week1/solution_1-5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.solution_1-5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6758fbb2-7694-4f57-8ac7-93479fe0e129" name="Default Changelist" comment="" />
+      <created>1600230389287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600230389287</updated>
+      <workItem from="1600230391302" duration="1676000" />
+      <workItem from="1600656060980" duration="576000" />
+      <workItem from="1600745669371" duration="7260000" />
+      <workItem from="1601123451661" duration="407000" />
+      <workItem from="1601433932549" duration="6582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1356" height="231" key="GridCell.Tab.0.bottom" timestamp="1601123633210">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1356" height="231" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1601123633210" />
+    <state width="1356" height="231" key="GridCell.Tab.0.center" timestamp="1601123633210">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1356" height="231" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1601123633210" />
+    <state width="1356" height="231" key="GridCell.Tab.0.left" timestamp="1601123633209">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1356" height="231" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1601123633209" />
+    <state width="1356" height="231" key="GridCell.Tab.0.right" timestamp="1601123633210">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1356" height="231" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1601123633210" />
+    <state x="388" y="184" width="609" height="830" key="recent.locations.popup" timestamp="1601434472369">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="388" y="184" width="609" height="830" key="recent.locations.popup/42.23.1398.877@42.23.1398.877" timestamp="1601434472369" />
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601440418253">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/42.23.1398.877@42.23.1398.877" timestamp="1601440418253" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hse$solution_1_5.coverage" NAME="solution_1-5 Coverage Results" MODIFIED="1600230619887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/week1" />
+    <SUITE FILE_PATH="coverage/hse$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1601123625388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/week3" />
+  </component>
+</project>
